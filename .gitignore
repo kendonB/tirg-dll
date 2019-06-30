@@ -2,7 +2,3 @@
 *.layout
 Debug/
 Release/
-ReadMe.txt
-stdafx.cpp
-stdafx.h
-targetver.h
